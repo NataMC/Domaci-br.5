@@ -1,0 +1,48 @@
+* {
+	font-family: 'Titillium Web', sans-serif;
+}
+body {
+	width: 100%;
+	margin:50px auto;
+}
+article {
+	width: 60%;
+	margin: 100px auto 0;
+	font-size: 12px;
+	position: relative;	
+}
+.cover {
+	height: 400px;
+	background: url(http://swiftsrbija.rs/wp-content/uploads/2016/03/20160302_180136.jpg);
+	background-size: cover;
+}
+.clanak {
+	width: 60%;
+	background-color: white;
+	padding: 50px;
+	text-align: left;
+	box-shadow: 1px 0px 3px #888888;
+	margin: -50px auto 0px; 
+
+}
+h1 {
+	font-size: 24px;
+	color: #343434;
+	font-weight: bold;
+	margin:2px;
+}
+.datum {
+	font-size: 10.8px;
+	text-align: left;
+}
+a {
+	text-decoration: none;
+	color: rgb(251,164,63);
+}
+
+img {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	float: right;	
+}
